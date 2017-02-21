@@ -1,0 +1,74 @@
+html,
+body {
+    margin: 0px;
+}
+
+.main{
+     width: 1170px;
+    margin: 0 auto;
+}
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.search{
+    padding: 50 30;
+    margin-left: 20;
+}
+
+.header .list{
+    margin-top: 55;
+    margin-right: 20;
+}
+
+.header .list ul li {
+     display: inline;
+     font-size: 20px;
+ }
+ 
+ .header .list ul li a {
+     text-decoration: none;
+     color: black;
+     font-size: 15px;
+     padding: 15px;
+}
+
+.content .left{
+    width: 70%;
+}
+
+.content .left .top{
+    background-color: dodgerblue;
+}
+
+.content .left .top ul{
+    margin-left: -15px;
+}
+
+.content .left .top ul li {
+     display: inline;
+     font-size: 20px;
+ }
+ 
+.content .left .top ul li a {
+     text-decoration: none;
+     color: black;
+     font-size: 15px;
+     padding: 15px;
+}
+
+.content .left img{
+    margin-top: -17;
+}
